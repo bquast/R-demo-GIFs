@@ -10,3 +10,6 @@ Demonstration GIFs of R packages
 ## diagonals
 ![diagonals demonstration](https://github.com/bquast/R-demo-GIFs/blob/master/diagonals.gif)
 
+## gvc
+![gvc demonstration](https://github.com/bquast/R-demo-GIFs/blob/master/gvc.gif)
+
