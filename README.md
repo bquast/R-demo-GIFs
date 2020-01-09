@@ -3,7 +3,7 @@ Demonstration GIFs of R packages
 
 ## datasets.load
 [Package on CRAN](https://cran.r-project.org/package=datasets.load) (repo on [GitHub](https://github.com/bquast/datasets.load)).
-Instal from R:
+Install from R:
 ```
 install.packages('datasets.load')
 ```
