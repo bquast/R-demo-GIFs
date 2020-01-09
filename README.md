@@ -2,6 +2,11 @@
 Demonstration GIFs of R packages
 
 ## datasets.load
+[Package on CRAN](https://cran.r-project.org/package=datasets.load) (repo on [GitHub](https://github.com/bquast/datasets.load))
+Instal from R:
+```
+install.packages('datasets.load')
+```
 ![datasets.load GUI demonstration](https://github.com/bquast/R-demo-GIFs/blob/master/datasets.load.gif)
 
 ## sigmoid
