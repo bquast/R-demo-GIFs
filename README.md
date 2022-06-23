@@ -9,6 +9,14 @@ install.packages('datasets.load')
 ```
 ![datasets.load GUI demonstration](https://github.com/bquast/R-demo-GIFs/blob/master/datasets.load.gif)
 
+## rnn
+[Package on CRAN](https://cran.r-project.org/package=rnn) (repo on [GitHub](https://github.com/bquast/rnn)).
+Install from `R`:
+```
+install.packages('rnn')
+```
+![rnn GUI demonstration](https://github.com/bquast/R-demo-GIFs/blob/master/rnn.gif)
+
 ## decompr
 [Package on CRAN](https://cran.r-project.org/package=decompr) (repo on [GitHub](https://github.com/bquast/decompr)).
 Install from `R`:
